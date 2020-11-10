@@ -5,6 +5,8 @@ date: "2020-10-03"
 
 I just launched a new bootcamp!
 
+![Grass](grass.png)
+
 ##  Topics Covered
 
 1. Gatsby
